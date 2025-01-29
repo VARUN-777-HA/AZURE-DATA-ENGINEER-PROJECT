@@ -19,7 +19,6 @@
 5. Trigger <br>
 6. Intigration Runtime.
 <br>
-<br>
 ADF components Img<br>
 
 
