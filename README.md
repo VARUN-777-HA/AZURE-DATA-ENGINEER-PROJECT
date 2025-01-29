@@ -20,7 +20,7 @@
 6. Intigration Runtime.
 <br>
 **ADF components Img**<br>
-
+![components](https://github.com/VARUN-777-HA/AZURE-DATA-ENGINEER-PROJECT/blob/80b608ff498b9ab650833e67312ea83a7e4c8691/ADF%20compnents.png)
 
 
 
