@@ -8,7 +8,6 @@
 <br>
 **Load**: It is used to load the data.
 <br>
-<br>
 *ADF enabels to create ,scheduling,managing data pipeline that move and transform from various source to destination.*
 <br>
 <br>
@@ -21,7 +20,8 @@
 6. Intigration Runtime.
 <br>
 <br>
-[ADF Components](ADF compnents.png)
+ADF components Img<br>
+
 
 
 
